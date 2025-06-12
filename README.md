@@ -22,8 +22,8 @@ Atualmente, estou cursando Desenvolvimento de Software Multiplataforma na Fatec 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
 
 </p>
----
 
-## 📫 Contato
+
+## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/sofia-floriano-amorim-8b1372207/)
