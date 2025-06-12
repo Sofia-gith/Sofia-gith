@@ -1,16 +1,28 @@
-## Hi there 👋
+# Sofia Floriano Amorim
 
-<!--
-**Sofia-gith/Sofia-gith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/sofia-floriano-amorim-8b1372207/)
 
-Here are some ideas to get you started:
+Olá! 👋 Eu sou a Sofia Amorim, uma desenvolvedora web em formação que gosta de criar soluções práticas e criativas.  
+Atualmente, estou cursando Desenvolvimento de Software Multiplataforma na Fatec Zona Leste.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Tenho interesse nas áreas de desenvolvimento **web** e **mobile**, sempre buscando evoluir e aprender novas tecnologias.
+
+💼 No momento, trabalho com **JavaScript**, **Java** e **Node.js**.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Ejs_logo.svg" width="40"/>
+
+---
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/sofia-floriano-amorim-8b1372207/)
