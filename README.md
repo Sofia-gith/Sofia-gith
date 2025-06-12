@@ -1,6 +1,5 @@
 # Sofia Floriano Amorim
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/sofia-floriano-amorim-8b1372207/)
 
 Olá!, Eu sou a Sofia Amorim, uma desenvolvedora web em formação que gosta de criar soluções práticas e criativas.  
 Atualmente, estou cursando Desenvolvimento de Software Multiplataforma na Fatec Zona Leste.
