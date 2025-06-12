@@ -20,7 +20,7 @@ Atualmente, estou cursando Desenvolvimento de Software Multiplataforma na Fatec 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Ejs_logo.svg" width="40"/>
+
 </p>
 ---
 
