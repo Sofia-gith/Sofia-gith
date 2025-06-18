@@ -10,7 +10,7 @@ Atualmente, estou cursando Desenvolvimento de Software Multiplataforma na Fatec 
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
