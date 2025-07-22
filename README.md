@@ -4,9 +4,9 @@
 Olá!, Eu sou a Sofia Amorim, uma desenvolvedora web em formação que gosta de criar soluções práticas e criativas.  
 Atualmente, estou cursando Desenvolvimento de Software Multiplataforma na Fatec Zona Leste.
 
-🚀 Tenho interesse nas áreas de desenvolvimento **web** e **mobile**, sempre buscando evoluir e aprender novas tecnologias.
+Tenho interesse nas áreas de desenvolvimento **web** e **mobile**, sempre buscando evoluir e aprender novas tecnologias.
 
-💼 No momento, trabalho com **JavaScript**, **Java** e **Node.js**.
+ No momento, trabalho com **JavaScript**, **Java** e **Node.js**.
 
 ---
 
