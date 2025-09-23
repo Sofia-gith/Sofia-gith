@@ -1,4 +1,4 @@
-# Sofia Floriano Amorim, bem vindo(a)👋
+# Sofia Floriano Amorim, bem vindo(a)
 
 Sou **desenvolvedora web em formação**, apaixonada por criar soluções práticas e criativas.  
 Atualmente, curso **Desenvolvimento de Software Multiplataforma** na Fatec Zona Leste.
