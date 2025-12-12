@@ -1,4 +1,4 @@
-# Olá, eu sou a Sofia Floriano Amorim! 👋
+# Olá, eu sou a Sofia Floriano Amorim!
 
 <div align="center">
   
