@@ -78,6 +78,6 @@ Atualmente estou aprofundando meus conhecimentos em **Node.js**, **Spring Boot**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sofia-floriano-amorim-8b1372207/)
 [![Gmail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu_email@exemplo.com)
-[![Portfolio](https://img.shields.io/badge/Portfólio-a855f7?style=for-the-badge&logo=vercel&logoColor=white)]([https://seu-portfolio.com](https://portifolio-eight-snowy-43.vercel.app))
+[![Portfolio](https://img.shields.io/badge/Portfólio-a855f7?style=for-the-badge&logo=vercel&logoColor=white)](https://portifolio-eight-snowy-43.vercel.app))
 
 </div>
